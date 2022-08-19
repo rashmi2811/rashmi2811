@@ -1,5 +1,5 @@
 <!-- <div id="badges" align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aarchie-05&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=rashmi2811&style=flat-square&color=blue" alt=""/>
 </div> -->
 
 <h1>
@@ -15,7 +15,7 @@
 </div>
 <br>
 <div align="center">
-  <img src="https://github.com/Aarchie-05/Aarchie-05/blob/main/Aarchie%20Girdhar.png"/>
+  <img src="https://github.com/rashmi2811/rashmi2811/blob/main/Rashmi_Profile.png"/>
 </div>
 <br><br>
 B.Tech student pursuing Computer Science and Engineering from Chitkara University, Punjab. An avid reader with a keen interest in programming. Motivated continuous learner who loves challenges. Seeking opportunities to grow professionally. 
